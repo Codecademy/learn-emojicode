@@ -4,7 +4,9 @@
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Curriculum:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.1] [![alt text][2]][2.1]
+**Curriculum:** Theo Weidmann (theo@weidmann.cool) [![alt text][1]][1.1] [![alt text][2]][2.1]
+
+**Curriculum:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.2] [![alt text][2]][2.2]
 
 <!-- links to social media icons -->
 
@@ -13,15 +15,16 @@
 
 <!-- links to social media accounts -->
 
-[1.1]: https://www.twitter.com/sonnynomnom
-[1.4]: https://twitter.com/joshuakgoldberg
+[1.1]: https://www.twitter.com/thbwd
+[1.2]: https://www.twitter.com/sonnynomnom
+[1.4]: https://www.twitter.com/joshuakgoldberg
 
-[2.1]: https://www.github.com/sonnynomnom
-[2.4]: https://github.com/joshuakgoldberg
+[2.1]: https://www.github.com/thbwd
+[2.2]: https://www.github.com/sonnynomnom
+[2.3]: https://www.github.com/sararosegallagher
+[2.4]: https://www.github.com/joshuakgoldberg
     
-**Curriculum:** Sara Gallagher (sara@codecademy.com)
-
-**Curriculum:** Theo Weidmann (theo@weidmann.cool)
+**Curriculum:** Sara Gallagher (sara@codecademy.com) [![alt text][2]][2.3]
 
 **Engineering:** Josh Goldberg (josh@codecademy.com) [![alt text][1]][1.4] [![alt text][2]][2.4]
 
