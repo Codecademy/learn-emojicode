@@ -37,57 +37,44 @@
 
 https://www.codecademy.com/learn/learn-emojicode (1.0 Beta 2)
 
-### Documentation ###
-
-[emojicode.org](https://www.emojicode.org)
-
 ## 1. Hello World ##
-
-```
-🏁🍇
-  😀🔤Hello, world!🔤❗️
-🍉
-```
 
 ```bash
 $ ./emojicodec hello.emojic
 $ ./hello
 ```
 
-- [ ] `hello.cpp`  
-- [ ] `pattern.cpp`
-- [ ] `letter.cpp`
-- [ ] `spell.cpp`
+- [x] [`hello.emojic`](https://github.com/Codecademy/learn-emojicode/blob/master/1-hello-world/hello.emojic)  
+- [ ] `pattern.emojic`
+- [ ] `letter.emojic`
+- [ ] `spell.emojic`
 
 **Block Letters:**
 
-- [x] [`initials.cpp`](1-hello-world/block-letters/initials.cpp)  
-- [x] [`snowman.cpp`](1-hello-world/block-letters/snowman.cpp)
-- [x] [`codecademy.cpp`](1-hello-world/block-letters/codecademy.cpp)
-- [x] [`daftpunk.cpp`](1-hello-world/block-letters/daftpunk.cpp)
+- [ ] `april.emojic`
+- [ ] `snowman.emojic`
+- [ ] `codecademy.emojic`
 
 ## 2. Variables ##
 
-- [x] [`temperature1.cpp`](2-variables/temperature1.cpp)
-- [x] [`temperature2.cpp`](2-variables/temperature2.cpp)
-- [x] [`bmi.cpp`](2-variables/bmi.cpp)
+- [ ] `temperature1.emojic`
+- [ ] `temperature2.emojic`
+- [ ] `bmi.emojic`
 
 **Dog Years:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/dog-years/dog.gif" align="right" width=250;>
 
-- [x] [`dog_years1.cpp`](2-variables/dog-years/dog_years1.cpp)
-- [x] [`dog_years2.cpp`](2-variables/dog-years/dog_years2.cpp)
-- [x] [`snoop_dog.cpp`](2-variables/dog-years/snoop_dog.cpp)
+- [ ] `dog.emojic`
 
 **Quadratic Formula:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/quadratic-formula/graph.gif" align="right" width=250;>
 
-- [x] [`quadratic.cpp`](2-variables/quadratic-formula/quadratic.cpp)
+- [ ] `quadratic.emojic`
 
 **Piggy Bank:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/piggy-bank/piggy-bank.gif" align="right" width=250;>
 
-- [x] [`currency.cpp`](2-variables/piggy-bank/currency.cpp)
+- [x] [`piggy.emojic`](2-variables/piggy-bank/piggy.emojic)
 
 ## 3. Conditionals & Logic ##
 
