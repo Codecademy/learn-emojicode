@@ -54,10 +54,10 @@ $ ./emojicodec hello.emojic
 $ ./hello
 ```
 
-- [x] [`hello.cpp`](1-hello-world/hello.cpp)  
-- [x] [`pattern.cpp`](1-hello-world/pattern.cpp)  
-- [x] [`letter.cpp`](1-hello-world/letter.cpp)
-- [x] [`spell.cpp`](1-hello-world/spell.cpp)
+- [ ] `hello.cpp`  
+- [ ] `pattern.cpp`
+- [ ] `letter.cpp`
+- [ ] `spell.cpp`
 
 **Block Letters:**
 
@@ -131,16 +131,16 @@ $ ./hello
 
 ---
 
-### Cheatsheets (BETA) ###
+### Cheatsheets ###
 
 1. [Hello World](https://www.codecademy.com/learn/learn-emojicode/modules/learn-emojicode-hello-world/cheatsheet)
 2. [Variables](https://www.codecademy.com/learn/learn-emojicode/modules/learn-emojicode-variables/cheatsheet)
 
 ### Resources ###
 
-* Codecademy C++ Style Guide
-* [Microsoft C++ Style Guide](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
-* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* [Emojicode GitHub](https://github.com/emojicode)
+* [Emojicode Docs](https://www.emojicode.org/docs/)
+* [Emojicode Twitter](https://twitter.com/real_emojicode)
 
 ### Hall of Fame ###
 
