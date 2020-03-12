@@ -1,4 +1,4 @@
-# Learn C++
+# Learn Emojicode
 
 <a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/Codecademy/learn-cpp/blob/master/logo.png" align="right" width=170;></a>
 
@@ -25,22 +25,29 @@
 [1.2]: http://www.twitter.com/marielsmusings
 [6.2]: http://www.github.com/marielfrank
     
-**Curriculum Developer:** Mariel Frank (mariel@codecademy.com) [![alt text][1]][1.2] [![alt text][6]][6.2]
-
-**Artwork:** Jared Langel
+**Curriculum:** Sara Gallagher (sara@codecademy.com) [![alt text][1]][1.2] [![alt text][6]][6.2]
+**Curriculum:** Theo B. Weidmann 
+**Engineering:** Josh Goldberg (josh@codecademy.com)
+**Artwork:** Tim Liedtke
 
 ## Course Link ##
 
-https://www.codecademy.com/learn/learn-c-plus-plus
+https://www.codecademy.com/learn/learn-emojicode (1.0 Beta 2)
 
-### Textbook ###
+### Documentation ###
 
-[Programming Principles and Practice Using C++](https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0321543726#customerReviews) (Bjarne Stroustrup)
+[emojicode.org](https://www.emojicode.org)
 
 ## 1. Hello World ##
 
 ```
-$ g++ hello.cpp -o hello
+🏁🍇
+  😀🔤Hello, world!🔤❗️
+🍉
+```
+
+```bash
+$ ./emojicodec hello.emojic
 $ ./hello
 ```
 
