@@ -76,45 +76,9 @@ $ ./hello
 
 - [x] [`piggy.emojic`](2-variables/piggy-bank/piggy.emojic)
 
-## 3. Conditionals & Logic ##
+## 3. Conditionals & Logic (TBD) ##
 
-- [x] [`coinflip.cpp`](3-conditionals-and-logic/coinflip.cpp)
-- [x] [`grade.cpp`](3-conditionals-and-logic/grade.cpp)
-- [x] [`pH.cpp`](3-conditionals-and-logic/pH.cpp)
-- [x] [`pokedex.cpp`](3-conditionals-and-logic/pokedex.cpp)
-- [x] [`space.cpp`](3-conditionals-and-logic/space.cpp)
-- [x] [`leap_year.cpp`](3-conditionals-and-logic/leap_year.cpp)
-
-**Magic 8-Ball:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" align="right" width=250;>
-
-- [x] [`magic8.cpp`](3-conditionals-and-logic/magic-8-ball/magic8.cpp)
-
-**Harry Potter Sorting Hat:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/harry-potter-sorting-hat/harrypotter.gif" align="right" width=250;>
-
-- [x] [`sortinghat.cpp`](3-conditionals-and-logic/harry-potter-sorting-hat/sortinghat.cpp)
-
-**Rock Paper Scissors Lizard Spock:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS.gif" align="right" width=250;>
-
-- [x] [`RPS.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPS.cpp)
-- [x] [`RPSLS.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS.cpp)
-- [x] [`RPSLS_if.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS_if.cpp)
-- [x] [`RPSLS_switch.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS_switch.cpp)
-
-## 4. Loops ##
-
-- [x] [`enter_pin.cpp`](4-loops/enter_pin.cpp)
-- [x] [`guess.cpp`](4-loops/guess.cpp)
-- [x] [`square.cpp`](4-loops/square.cpp)
-- [x] [`troublemaker.cpp`](4-loops/troublemaker.cpp)
-- [x] [`99bottles.cpp`](4-loops/99bottles.cpp)
-
-**Fizz Buzz:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/4-loops/fizzbuzz/fizzbuzz.gif" align="right" width=250;>
-
-- [x]  [`fizzbuzz.cpp`](4-loops/fizzbuzz/fizzbuzz.cpp)
+## 4. Loops (TBD) ##
 
 ---
 
@@ -127,7 +91,6 @@ $ ./hello
 
 * [Emojicode GitHub](https://github.com/emojicode)
 * [Emojicode Docs](https://www.emojicode.org/docs/)
-* [Emojicode Twitter](https://twitter.com/real_emojicode)
 
 ### Hall of Fame ###
 
