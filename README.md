@@ -4,32 +4,26 @@
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Curriculum:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.1] [![alt text][6]][6.1]
+**Curriculum:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.1] [![alt text][2]][2.1]
 
 <!-- links to social media icons -->
 
-<!-- icons without padding -->
-
 [1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
 <!-- links to social media accounts -->
 
-[1.1]: http://www.twitter.com/sonnynomnom
-[6.1]: http://www.github.com/sonnynomnom
+[1.1]: https://www.twitter.com/sonnynomnom
+[1.4]: https://twitter.com/joshuakgoldberg
 
-[1.2]: http://www.twitter.com/marielsmusings
-[6.2]: http://www.github.com/marielfrank
+[2.1]: https://www.github.com/sonnynomnom
+[2.4]: https://github.com/joshuakgoldberg
     
-**Curriculum:** Sara Gallagher (sara@codecademy.com) [![alt text][1]][1.2] [![alt text][6]][6.2]
+**Curriculum:** Sara Gallagher (sara@codecademy.com)
 
-**Curriculum:** Theo B. Weidmann 
+**Curriculum:** Theo B. Weidmann (theo@weidmann.cool)
 
-**Engineering:** Josh Goldberg (josh@codecademy.com)
+**Engineering:** Josh Goldberg (josh@codecademy.com) [![alt text][1]][1.4] [![alt text][2]][2.4]
 
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
