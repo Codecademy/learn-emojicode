@@ -126,58 +126,14 @@ $ ./hello
 
 - [x]  [`fizzbuzz.cpp`](4-loops/fizzbuzz/fizzbuzz.cpp)
 
-## 5. Vectors ##
-
-- [ ] `tokyo.cpp`
-- [x] [`oddeven.cpp`](5-vectors/oddeven.cpp)
-
-**Whale Talk:**
-
-- [x] [`whale.cpp`](5-vectors/whale.cpp)
-
-## 6. Functions ##
-
-**UFO:**
-
-- [x] [UFO](6-functions)
-
-## 7. Classes & Objects ##
-
-**The Object of Your Affection:**
-
-- [x] [The Object of Your Affection](7-classes-and-objects)
-
-## 8. References & Pointers ##
-
-- [ ] `pointers.cpp`
-
-**Bleep:**
-
-- [x] [`bleep.cpp`](8-references-and-pointers/bleep/bleep.cpp) [`functions.cpp`](8-references-and-pointers/bleep/functions.cpp) [`functions.hpp`](8-references-and-pointers/bleep/functions.hpp)
-
 ---
 
-### Cheat Sheets (BETA) ###
+### Cheatsheets (BETA) ###
 
-1. [Hello World](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-hello-world/reference)
-2. [Variables](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-variables/reference)
-3. [Conditionals & Logic](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-conditionals-and-logic/reference)
-4. [Loops](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-loops/reference)
-5. [Vectors](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-vectors/reference)
-6. [Functions](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-functions/reference)
-7. [Classes & Objects](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-classes-and-objects/reference)
-8. [References & Pointers](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-references-and-pointers/reference)
+1. [Hello World](https://www.codecademy.com/learn/learn-emojicode/modules/learn-emojicode-hello-world/cheatsheet)
+2. [Variables](https://www.codecademy.com/learn/learn-emojicode/modules/learn-emojicode-variables/cheatsheet)
 
-### Talking C++ ###
-
-1. [Talking C++: Interview with Simon Brand](https://dev.to/codecademy/talking-c-interview-with-simon-brand-3gma)
-2. [Talking C++: Interview with Bjarne Stroustroup](https://news.codecademy.com/bjarne-stroustrup-interview/)
-
-### C++ Community Challenge 2019 ###
-
-* https://dev.to/codecademy/c-community-challenge-3l8m
-
-### C++ Style Guides ###
+### Resources ###
 
 * Codecademy C++ Style Guide
 * [Microsoft C++ Style Guide](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
@@ -186,10 +142,6 @@ $ ./hello
 ### Hall of Fame ###
 
 * TBA
-
-<br>
-
-<img src="https://github.com/sonnynomnom/Introduction-to-Programming-in-C/blob/master/Projects/blackjack.png" alt="Black Jack" />
 
 ## Contribution Guidelines
 
