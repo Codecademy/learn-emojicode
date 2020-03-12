@@ -4,7 +4,7 @@
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Curriculum Developer:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.1] [![alt text][6]][6.1]
+**Curriculum:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.1] [![alt text][6]][6.1]
 
 <!-- links to social media icons -->
 
@@ -26,9 +26,12 @@
 [6.2]: http://www.github.com/marielfrank
     
 **Curriculum:** Sara Gallagher (sara@codecademy.com) [![alt text][1]][1.2] [![alt text][6]][6.2]
+
 **Curriculum:** Theo B. Weidmann 
+
 **Engineering:** Josh Goldberg (josh@codecademy.com)
-**Artwork:** Tim Liedtke
+
+**Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
 ## Course Link ##
 
