@@ -21,7 +21,7 @@
     
 **Curriculum:** Sara Gallagher (sara@codecademy.com)
 
-**Curriculum:** Theo B. Weidmann (theo@weidmann.cool)
+**Curriculum:** Theo Weidmann (theo@weidmann.cool)
 
 **Engineering:** Josh Goldberg (josh@codecademy.com) [![alt text][1]][1.4] [![alt text][2]][2.4]
 
