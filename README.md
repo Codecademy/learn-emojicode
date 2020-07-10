@@ -24,7 +24,7 @@
 [2.3]: https://www.github.com/sararosegallagher
 [2.4]: https://www.github.com/joshuakgoldberg
     
-**Curriculum:** Sara Gallagher (sara@codecademy.com) [![alt text][2]][2.3]
+**Curriculum:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.3]
 
 **Engineering:** Josh Goldberg (josh@codecademy.com) [![alt text][1]][1.4] [![alt text][2]][2.4]
 
@@ -48,7 +48,7 @@ $ ./hello
 
 **Block Letters:**
 
-- [ ] `april.emojic`
+- [ ] [`initials.emojic`](https://github.com/Codecademy/learn-emojicode/blob/master/1-hello-world/block-letters/initials.emojic)
 - [ ] `snowman.emojic`
 - [ ] `codecademy.emojic`
 
