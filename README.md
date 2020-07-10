@@ -21,7 +21,7 @@
 
 [2.1]: https://www.github.com/thbwd
 [2.2]: https://www.github.com/sonnynomnom
-[2.3]: https://www.github.com/sararosegallagher
+[2.3]: https://github.com/LinKCoding
 [2.4]: https://www.github.com/joshuakgoldberg
     
 **Curriculum:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.3]
@@ -49,8 +49,7 @@ $ ./hello
 **Block Letters:**
 
 - [ ] [`initials.emojic`](https://github.com/Codecademy/learn-emojicode/blob/master/1-hello-world/block-letters/initials.emojic)
-- [ ] `snowman.emojic`
-- [ ] `codecademy.emojic`
+- [ ] `worldEmojiDay.emojic`
 
 ## 2. Variables ##
 
