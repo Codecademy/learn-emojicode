@@ -45,7 +45,7 @@ $ ./hello
 
 **Block Letters:**
 
-- [ ] [`initials.emojic`](https://github.com/Codecademy/learn-emojicode/blob/master/1-hello-world/block-letters/initials.emojic)
+- [x] [`initials.emojic`](https://github.com/Codecademy/learn-emojicode/blob/master/1-hello-world/block-letters/initials.emojic)
 - [ ] `worldEmojiDay.emojic`
 
 ## 2. Variables ##
