@@ -42,9 +42,6 @@ $ ./hello
 ```
 
 - [x] [`hello.emojic`](https://github.com/Codecademy/learn-emojicode/blob/master/1-hello-world/hello.emojic)  
-- [ ] `pattern.emojic`
-- [ ] `letter.emojic`
-- [ ] `spell.emojic`
 
 **Block Letters:**
 
@@ -53,20 +50,6 @@ $ ./hello
 
 ## 2. Variables ##
 
-- [ ] `temperature1.emojic`
-- [ ] `temperature2.emojic`
-- [ ] `bmi.emojic`
-
-**Dog Years:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/dog-years/dog.gif" align="right" width=250;>
-
-- [ ] `dog.emojic`
-
-**Quadratic Formula:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/quadratic-formula/graph.gif" align="right" width=250;>
-
-- [ ] `quadratic.emojic`
-
 **Piggy Bank:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/piggy-bank/piggy-bank.gif" align="right" width=250;>
 
@@ -74,14 +57,7 @@ $ ./hello
 
 ## 3. Conditionals & Logic (TBD) ##
 
-## 4. Loops (TBD) ##
-
----
-
-### Cheatsheets ###
-
-1. [Hello World](https://www.codecademy.com/learn/learn-emojicode/modules/learn-emojicode-hello-world/cheatsheet)
-2. [Variables](https://www.codecademy.com/learn/learn-emojicode/modules/learn-emojicode-variables/cheatsheet)
+- [x] [`emoji_assigner.emojic`](3-conditionals/emoji_assigner/emoji_assigner.emojic)
 
 ### Resources ###
 
