@@ -57,7 +57,7 @@ $ ./hello
 
 ## 3. Conditionals & Logic (TBD) ##
 
-- [x] [`emoji_assigner.emojic`](3-conditionals/emoji_assigner/emoji_assigner.emojic)
+- [x] [`assigner.emojic`](3-conditionals/assigner/assigner.emojic)
 
 ### Resources ###
 
