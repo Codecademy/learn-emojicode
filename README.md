@@ -57,6 +57,7 @@ $ ./hello
 
 ## 3. Conditionals & Logic (TBD) ##
 
+**What Emoji Are You?:**
 - [x] [`assigner.emojic`](3-conditionals/assigner/assigner.emojic)
 
 ### Resources ###
