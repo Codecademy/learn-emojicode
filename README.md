@@ -26,8 +26,6 @@
     
 **Curriculum:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.3]
 
-**Engineering:** Josh Goldberg (josh@codecademy.com) [![alt text][1]][1.4] [![alt text][2]][2.4]
-
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
 ## Course Link ##
