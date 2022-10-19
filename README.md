@@ -6,7 +6,7 @@
 
 **Curriculum:** Theo Weidmann (theo@weidmann.cool) [![alt text][1]][1.1] [![alt text][2]][2.1]
 
-**Curriculum:** Sonny Li (sonny@codecademy.com) [![alt text][1]][1.2] [![alt text][2]][2.2]
+**Curriculum:** Sonny Li 
 
 <!-- links to social media icons -->
 
@@ -16,13 +16,10 @@
 <!-- links to social media accounts -->
 
 [1.1]: https://www.twitter.com/thbwd
-[1.2]: https://www.twitter.com/sonnynomnom
-[1.4]: https://www.twitter.com/joshuakgoldberg
+
 
 [2.1]: https://www.github.com/thbwd
-[2.2]: https://www.github.com/sonnynomnom
 [2.3]: https://github.com/LinKCoding
-[2.4]: https://www.github.com/joshuakgoldberg
     
 **Curriculum:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.3]
 
